@@ -15,7 +15,7 @@ Define Merging:
 
 Define Pushing:
 
-Define Pull Request:
+Define Pull Request: pushing my code to you so you can veiw and potential steal into your original code (shift command k)
 
 
 '''

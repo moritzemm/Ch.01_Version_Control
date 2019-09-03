@@ -118,7 +118,7 @@ Each student has 10 lines of code to play with!
 
 
 ------------------Student 12------------------
-This is the master code
+This is the master branch
 Emma Moritz
 
 

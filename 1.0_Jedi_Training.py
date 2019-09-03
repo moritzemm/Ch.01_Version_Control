@@ -1,19 +1,19 @@
 '''
-Sign your name:________________
+Sign your name:Emma E. Moritz
 
 
 
-Define Forking: 
+Define Forking: takeing someone elses program onto your profile
 
-Define Cloning: 
+Define Cloning: putting the program from my github to pycharm
 
-Define Branching:
+Define Branching: makeing a new copy of my program to test if it works without effecting my original but am able to combine the 2
 
-Define Committing: 
+Define Committing: a mega save (Command k)
 
-Define Merging: 
+Define Merging: combining your new code to your old code which you branched from
 
-Define Pushing:
+Define Pushing: pushing your code back onto your profile
 
 Define Pull Request:
 

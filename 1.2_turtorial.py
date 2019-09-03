@@ -6,7 +6,7 @@ Turtle Documentation: https://docs.python.org/3.3/library/turtle.html?highlight=
 
 '''
 import turtle
-yoda=turtle.Turtle()
+timmy=turtle.Turtle()
 screen=turtle.Screen() # makes a screen object
 screen.bgcolor('black') # colors the screen
 yoda.pensize(3) # width of pen line
@@ -25,9 +25,9 @@ yoda.goto(-200,210)
 yoda.goto(-88,145)
 yoda.penup()
 yoda.setpos(200,-300)
-yoda.pendown()
-yoda.pencolor('#00FF00')
-yoda.write('Sign Your Name Here',font=("Arial", 12, "normal"))
+timmy.pendown()
+timmy.pencolor('#00FF00')
+timmy.write('Sign Your Name Here',font=("Emma", 12, "normal"))
 
 
 turtle.exitonclick() #Keeps pycharm window open

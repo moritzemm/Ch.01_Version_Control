@@ -15,7 +15,7 @@ Define Merging: combining your new code to your old code which you branched from
 
 Define Pushing: pushing your code back onto your profile
 
-Define Pull Request:
+Define Pull Request: pushing my code to you so you can veiw and potential steal into your original code (shift command k)
 
 
 '''

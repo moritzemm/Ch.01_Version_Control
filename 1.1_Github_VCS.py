@@ -123,10 +123,10 @@ Emma E. Moritz
 Go hawks!
 I weld
 Im not going to collage
-i dont enjoy school
-i enjoy your class
-im going to enjoy this class
-this year is going to be stressful
+I don't enjoy school
+I enjoy your class
+I'm going to enjoy this class
+This year is going to be stressful
 ------------------Student 13------------------
 
 

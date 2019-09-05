@@ -121,12 +121,12 @@ Each student has 10 lines of code to play with!
 This is the testing branch
 Emma E. Moritz
 Go hawks!
-
-
-
-
-
-
+I weld
+Im not going to collage
+i dont enjoy school
+i enjoy your class
+im going to enjoy this class
+this year is going to be stressful
 ------------------Student 13------------------
 
 

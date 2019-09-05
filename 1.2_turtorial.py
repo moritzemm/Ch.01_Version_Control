@@ -7,25 +7,28 @@ Turtle Documentation: https://docs.python.org/3.3/library/turtle.html?highlight=
 '''
 import turtle
 timmy=turtle.Turtle()
-screen=turtle.Screen() # makes a screen object
-screen.bgcolor('black') # colors the screen
+timmy.penup()
+timmy.shape('turtle')
 timmy.pensize(3) # width of pen line
-timmy.speed(10)  # speed of drawing. Go fast to not waste time.
+timmy.speed(2)  # speed of drawing. Go fast to not waste time.
 timmy.color("#00FF00")
-timmy.setpos(50,185) #right ear
+timmy.setpos(0,0)
 timmy.pendown()
-timmy.goto(200,210)
-timmy.goto(88,145)
+timmy.circle(100)
 timmy.penup()
-timmy.setpos(-50,185)  #left ear
+timmy.setpos(-50,185)
 timmy.pendown()
-timmy.goto(-200,210)
-timmy.goto(-88,145)
+timmy.goto(-50,15)
 timmy.penup()
-timmy.setpos(200,-300)
+timmy.goto(-10,200)
 timmy.pendown()
+timmy.goto(-10,0)
+timmy.penup()
+timmy.goto(30,185)
+timmy.pendown()
+timmy.goto(30,15)
+timmy.penup()
+timmy.goto(200,-300)
 timmy.pencolor('#00FF00')
-timmy.write('Sign Your Name Here',font=("Emma", 12, "normal"))
-timmy.setpos(210,-300)
-timmy.write(EmmaMoritz)
+timmy.write('Emma E. Moritz',font=("Emma", 12, "normal"))
 turtle.exitonclick() #Keeps pycharm window open
